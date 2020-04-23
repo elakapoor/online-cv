@@ -114,23 +114,21 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+
     papers:
       - title: "Design of FIR Filter Using Novel Particle Swarm Optimisation"
         link: "http://ijsrcseit.com/CSEIT17247"
-        authors: Donald E. Knuth
+        authors: Ela Mehra
         conference: International Journal of Scientific Research in Computer Science, Engineering and Information Technology
 
       - title: "Design of FIR Filter using Genetic Algorithm "
         link: "  http://ijsrcseit.com/CSEIT1724223"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        authors: Ela Mehra, Dr. Sulochana Wadhwani
         conference: "International Journal of Scientific Research in Computer Science, Engineering and Information Technology."
 
       - title: "Comparative Analysis of Noise Signal on Application of FIR  "
-        link: "IJISRT17AG123"
-        authors: Edgar T. Irons
+        link: ""
+        authors: Ela Mehra, Dr. Sulochana Wadhwani
         conference: "International Journal Of Innovative Science And Research Technology"
 
 skills:
