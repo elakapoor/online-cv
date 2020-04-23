@@ -17,7 +17,7 @@ sidebar:
     #website: blog.webjeda.com #do not add http://
 
     linkedin: ela-kapoor
-    github: elakapoor
+    github: elakapoor/Projects
     gitlab:
     bitbucket:
     #twitter: '@webjeda'
@@ -45,73 +45,45 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Enthusiastic Machine Learning engineer and Data Analyst with a passion for developing innovative application that expedite the effectiveness of organizational success.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: ME in Electrical Engineering
+      university: MITS, Gwalior, India
+      time: 2015 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        My thesis was accepted with distinction on the topic "A Comparative Analysis and Des Design of Digital FIR Filter Using Nature-Inspired Algorithms"
+    - degree: BE in Electrical Engineering
+      university: SATI, Vidisha, India
+      time: 2010 - 2014
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Worked on "Micro-controller Based Solar Panel Tracking System" at electrical engineering lab. I was responsible for programming the micro-controller 8051 of Samrat Ashok Technological Institute.
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Machine Learning Trainee
+      time: 2019 - Present
+      company: Integrify, Helsinki, Finland
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Working on the projects related to data analysis and machine learning. Working as a Machine Learning at Integrity, my job responsibilities include:
+          - Generating PoC Machine learning pipelines for client projects.
+          - Developing codes for image classification and labelling using Keras.
+          - Writing codes for text classification (Using Keras and Scikit Learn)
+          - Data analysis and visualization using Scipy libraries.
+          - Language used: Python
+          - ML/Data Analysis Libraries used: Numpy, Pandas, Matplot,Seaborn,     Scikitlearn and Keras.
+    - role: Software Tester
+      time: 04/2019 - 04/2019
+      company: Power Vision, Espoo, Finland
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Software unit testing of Drone's Middleware & its automation software.
+    - role: Web Designer and Developer
+      time: 10/2018 - 12/2018
+      company: Shubh IT Tech, Gwalior, India
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Web development & designing for a website of pharmaceutical company.
+    - role: Web Unit Tester
+      time: 03/2018 - 08/2018
+      company: Frontech Pvt. Ltd, Gwalior, India
+      details: |
+        Did web unit testing using Selenium and robot framework automated testing tool.
 projects:
     title: Projects
     intro: >
@@ -146,42 +118,37 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
+      - title: "Design of FIR Filter Using Novel Particle Swarm Optimisation"
+        link: "http://ijsrcseit.com/CSEIT17247"
         authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        conference: International Journal of Scientific Research in Computer Science, Engineering and Information Technology
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
+      - title: "Design of FIR Filter using Genetic Algorithm "
+        link: "  http://ijsrcseit.com/CSEIT1724223"
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        conference: "International Journal of Scientific Research in Computer Science, Engineering and Information Technology."
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
+      - title: "Comparative Analysis of Noise Signal on Application of FIR  "
+        link: "IJISRT17AG123"
         authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        conference: "International Journal Of Innovative Science And Research Technology"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        #level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Javascript
+        #level: 98%
 
       - name: Angular
-        level: 98%
+        #level: 98%
 
       - name: HTML5 & CSS
-        level: 95%
+        #level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 #
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
